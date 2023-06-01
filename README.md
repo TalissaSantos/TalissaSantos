@@ -1,4 +1,5 @@
-###  Olá, eu sou a Talissa!
+###  Olá, me  chamo Talissa, seja bem vindo ao meu mundinho!
+
  <div>
   <a href="https://github.com/TalissaSantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TalissaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
