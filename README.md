@@ -1,4 +1,4 @@
-###  Olá, me  chamo Talissa, seja bem vindo ao meu mundinho!
+###  Olá, me  chamo Talissa, seja bem vindo !
 
  <div>
   <a href="https://github.com/TalissaSantos">
