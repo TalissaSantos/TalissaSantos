@@ -1,4 +1,4 @@
-###  Olá, me  chamo Talissa, seja bem vindo !
+###  Olá!
 
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talissajsantos/)
@@ -6,8 +6,8 @@
 
 <div>
    <a href="https://github.com/TalissaSantos">
-   <img height="250em" width="500" src="https://github-readme-stats.vercel.app/api?username=TalissaSantos&show_icons=true&theme=radical"/>
-   <img height="250em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissaSantos&langs_count=8&theme=radical"/>
+<!--   <img height="250em" width="500" src="https://github-readme-stats.vercel.app/api?username=TalissaSantos&show_icons=true&theme=radical"/> -->
+   <img height="350em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissaSantos&langs_count=8&theme=radical"/>
 </div>
 
 ### Tecnologias :
