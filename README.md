@@ -1,20 +1,21 @@
-###  Olá!
+<img align="center" alt="apresentacao"  src="banner-talissa.png">
 
 
+
+### Contato 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talissajsantos/)
-
 ##
-
-
-
+###  Portifólio
+<a href="https://talissasantos.github.io/" target="_blank"><img src="https://cdn.buymeacoffee.com" alt="Acesse meu portifólio" height="40" width="40"></a>
+##
 <div>
    <a href="https://github.com/TalissaSantos">
 <!--   <img height="250em" width="500" src="https://github-readme-stats.vercel.app/api?username=TalissaSantos&show_icons=true&theme=radical"/> -->
    <img height="350em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissaSantos&langs_count=8&theme=radical"/>
 </div>
 
-### Tecnologias :
 ##
+### Tecnologias :
 <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
