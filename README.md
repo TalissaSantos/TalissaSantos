@@ -2,9 +2,10 @@
 
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talissajsantos/)
+
 ##
 
-<a href="https://talissasantos.github.io/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 <div>
    <a href="https://github.com/TalissaSantos">
