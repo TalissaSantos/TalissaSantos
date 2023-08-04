@@ -1,4 +1,4 @@
-<img align="center" alt="apresentacao"  src="banner-talissa.png">
+<img align="center" alt="apresentacao"  src="banner.png">
 
 ##
 ###  Portifólio
