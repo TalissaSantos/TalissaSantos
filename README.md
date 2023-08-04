@@ -5,9 +5,9 @@
 ### Contato 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talissajsantos/)
 ##
-<!-- ###  Portifólio
+ ###  Portifólio
 <a href="https://talissasantos.github.io/" target="_blank"><img src="https://cdn.buymeacoffee.com" alt="Acesse meu portifólio" height="40" width="40"></a>
-##-->
+##
 <div>
    <a href="https://github.com/TalissaSantos">
 <!--   <img height="250em" width="500" src="https://github-readme-stats.vercel.app/api?username=TalissaSantos&show_icons=true&theme=radical"/> -->
