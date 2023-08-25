@@ -1,5 +1,5 @@
 
-<img align="center" height="380" alt="apresentacao"  src="banner.png">
+<img align="center" alt="apresentacao"  src="banner.png">
 
 ##
 ###  Portifólio
